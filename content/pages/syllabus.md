@@ -74,8 +74,45 @@ Grading
 
 Final grades will be determined from:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Homework | 30 |
-| 3 In-class tests @15% | 45 |
-| Final exam | 25
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3 In-class tests @15%
+{{< tdclose >}}
+{{< tdopen >}}
+45
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

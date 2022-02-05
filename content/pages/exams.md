@@ -10,9 +10,69 @@ All topics presented in the course will be covered in the final exam, with empha
 
 Below are review problems from previous tests.
 
-| EXAM # | EXAM REVIEWS | EXAM REVIEW SOLUTIONS |
-| --- | --- | --- |
-| 1 | [Exam Review 1 (PDF)]({{< baseurl >}}/resources/mit8_333f13_examreview1) | [Exam Review 1 Solution (PDF)]({{< baseurl >}}/resources/mit8_333f13_examreview1sol) |
-| 2 | [Exam Review 2 (PDF)]({{< baseurl >}}/resources/mit8_333f13_examreview2) | [Exam Review 2 Solution (PDF)]({{< baseurl >}}/resources/mit8_333f13_examreview2sol) |
-| 3 | [Exam Review 3 (PDF)]({{< baseurl >}}/resources/mit8_333f13_examreview3) | [Exam Review 3 Solution (PDF)]({{< baseurl >}}/resources/mit8_333f13_examreview3sol) |
-| Final | [Final Exam Review (PDF)]({{< baseurl >}}/resources/mit8_333f13_examreviewfinl) | [Final Exam Review Solution (PDF)]({{< baseurl >}}/resources/mit8_333f13_examrevfinlsol)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+EXAM #
+{{< thclose >}}
+{{< thopen >}}
+EXAM REVIEWS
+{{< thclose >}}
+{{< thopen >}}
+EXAM REVIEW SOLUTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+[Exam Review 1 (PDF)]({{< baseurl >}}/resources/mit8_333f13_examreview1)
+{{< tdclose >}}
+{{< tdopen >}}
+[Exam Review 1 Solution (PDF)]({{< baseurl >}}/resources/mit8_333f13_examreview1sol)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+[Exam Review 2 (PDF)]({{< baseurl >}}/resources/mit8_333f13_examreview2)
+{{< tdclose >}}
+{{< tdopen >}}
+[Exam Review 2 Solution (PDF)]({{< baseurl >}}/resources/mit8_333f13_examreview2sol)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+[Exam Review 3 (PDF)]({{< baseurl >}}/resources/mit8_333f13_examreview3)
+{{< tdclose >}}
+{{< tdopen >}}
+[Exam Review 3 Solution (PDF)]({{< baseurl >}}/resources/mit8_333f13_examreview3sol)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final
+{{< tdclose >}}
+{{< tdopen >}}
+[Final Exam Review (PDF)]({{< baseurl >}}/resources/mit8_333f13_examreviewfinl)
+{{< tdclose >}}
+{{< tdopen >}}
+[Final Exam Review Solution (PDF)]({{< baseurl >}}/resources/mit8_333f13_examrevfinlsol)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
